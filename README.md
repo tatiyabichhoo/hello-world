@@ -1,2 +1,3 @@
 # hello-world
 just starting this thing with the help of examples
+This is john conner and if you are reading this you are resistance and capacitance and bla bla bla...
